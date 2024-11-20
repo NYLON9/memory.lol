@@ -64,7 +64,7 @@ Being able to look up historical social media profiles often makes it possible t
 
 Here are a few examples off the top of my head (the first three are examples of the service in action, and the last two show how it can be used to confirm the work of others):
 
-* [**`@OSINT_Ukraine`**](https://api.memory.lol/v1/tw/OSINT_Ukraine): gained a large following in February 2022; looking up old screen names shows that [it had previously been an NFT scam account](https://twitter.com/travisbrown/status/1496784753705598977).
+* [**`@OSINT_Ukraine`**](https://api.memory.lol/v1/tw/OSINT_Ukraine): gained a large following in February 2022; looking up old screen names shows that [it had previously been an NFT scam account](https://twitter.com/travisbrown/status/1641121612094226456).
 * [**`@libsoftiktok`**](https://api.memory.lol/v1/tw/libsoftiktok): a [viral hate account](https://www.washingtonpost.com/technology/2022/04/19/libs-of-tiktok-right-wing-media/) that targets LGBTQ+ people; looking up her screen name in this service is how I found her name (Chaya Raichik) a couple of months ago.
 * [**`@_lktk`**](https://api.memory.lol/v1/tw/_lktk): an abusively transphobic troll named Iratxo Lorca who has been active in the Scala community for years; he was [one of the first people](https://gist.github.com/travisbrown/a704b52d3013471321e5ee6a6b3ff9e6) I identified using this service.
 * [**`@Mormonger`**](https://api.memory.lol/v1/tw/Mormonger): a homophobic Mormon who was [identified as a person named Cole Noorda](https://exposedeznat.noblogs.org/tag/cole-noorda/) last September; this service confirms that he had previously used the screen name `@colenoorda` for his account.
